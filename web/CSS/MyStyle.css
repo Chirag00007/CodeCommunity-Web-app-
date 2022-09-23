@@ -1,0 +1,17 @@
+
+
+.primary_background{
+    background-color:#7e57c2;
+}
+.secondary_background{
+    background-color: #b39ddb;
+}
+.card-bg{
+    background-color: #ede7f6;
+    border-color:#7e57c2;
+    border-width: 3px;
+    border-radius: 5px;
+}
+.btn-edit{
+    color: red;
+}
